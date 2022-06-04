@@ -5,8 +5,8 @@ import java.sql.DriverManager;
 
 public class MySqlCommands {
 	static final String DB_URL_FOR_MYSQL = "jdbc:mysql://localhost:3306/my_db";
-	static final String USER_NAME_FOR_MYSQL = "root";
-	static final String PASSWORD_FOR_MYSQL = "ac230196";
+	static final String USER_NAME_FOR_MYSQL = "Your user name to database in mysql";
+	static final String PASSWORD_FOR_MYSQL = "Your password to database in mysql";
 	
 //Gets
 	public static String getDbUrlForMySQL() {
