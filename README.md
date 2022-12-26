@@ -1,4 +1,4 @@
-# Java---Projects
+# JAVA---Projects
 Projects in JAVA
 
 Each folder represent a project.
