@@ -1,8 +1,3 @@
-//name: AmitCohen
-//ID: 315876011
-//H.W Number: 4
-package id_315876011;
-
 import java.util.Scanner;
 
 public class Main {
