@@ -1,4 +1,4 @@
-שרת המשמש כ superapp שמטרתו לתת מענה לשתי אפליקציות שהן miniapp בתחום הטיסות והמלונות.
-כדי לקבל נתוני טיסות ומלונות השרת משתמש בממשק api עם tripadvisor.
-הנתונים מגובים במאגר נתונים של mongoDB ולכן יש להפעיל את השרת במחשב.
-השרת מנהל גם מאגר משתמשים שלכל משתמש ישנן הרשאות שונות על פי סוגו (מנהל, סופראפ, מיניאפ).
+A server that serves as a superapp whose purpose is to respond to two applications that are miniapps in the field of flights and hotels.
+To get flight and hotel data the server uses an api interface with tripadvisor.
+The data is backed up in mongoDB, so the server must be run on the computer.
+The server also manages a pool of users, each user having different permissions according to their type (admin, superapp, miniap).
