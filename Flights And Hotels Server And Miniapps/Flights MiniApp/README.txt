@@ -1,2 +1,2 @@
-אפליקציית אנדוראיד שמטרה למצוא טיסות עפ"י קריטריונים שהמשתמש מבקש.
-כדי לתקשר מול הסרבר יש לשנות את כתובת ה- IP בתיקיית הפרויקט,  שנמצאת בתיקיית ה-Server בקובץ בשם RetrofitService.
+An Android application that aims to find flights according to criteria that the user requests.
+To communicate with the server, the IP address must be changed in the project folder, which is in the Server folder in a file called RetrofitService.
